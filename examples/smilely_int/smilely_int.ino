@@ -201,7 +201,7 @@ void setup() {
  // Serial.begin(9600);
  //  while (!Serial) ;
   
-  TXLED0;// on board leds off
+  TXLED1;// on board leds off
   RXLED0;
   
   pinMode(RED, OUTPUT); 
